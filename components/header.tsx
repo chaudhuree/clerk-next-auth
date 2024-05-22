@@ -25,7 +25,9 @@ export default function Header() {
 
         <div className='flex items-center justify-between gap-6'>
           <ThemeToggle />
-
+{/* nicher code dara bojhay, jodi signOut thake tahole signin button show korao
+r jodi sign in thake tahole signout button dekhao
+*/}
           <SignedOut>
             <SignInButton mode='modal'>
               <Button size='sm'>Sign in</Button>
