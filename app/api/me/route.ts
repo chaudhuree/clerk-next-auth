@@ -1,3 +1,6 @@
+// ai route ta navbar a akta item er link a dewa hoyeche. li button a click korle
+// amader /me te hit korbe and aitar response ta pawa jabe.oita kono GUI hobe na. just 
+// JSON response
 import { NextResponse } from 'next/server'
 import { auth } from '@clerk/nextjs/server'
 
